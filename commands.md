@@ -67,4 +67,3 @@ Use it as a quick reference guide. ✨
 
 ---
 
-✨ Now your **Git + Linux Command Guide** looks clean and easy to follow! 🚀
